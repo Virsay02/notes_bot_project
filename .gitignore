@@ -1,1 +1,4 @@
-users
+.env
+users/
+venv/
+.idea/
